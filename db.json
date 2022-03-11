@@ -4,7 +4,7 @@
       "apellido": "Gandara",
       "nombre": "Mariano",
       "telefono": "111565982763",
-      "email": "Marcos@mail.com",
+      "email": "Mariano@mail.com",
       "id": "a5dd20dd-64d6-4e1d-90a9-1eca5a7aa239",
       "estado": true
     },
@@ -12,20 +12,20 @@
       "apellido": "Gandara",
       "nombre": "Marcos",
       "telefono": "2131241141241",
-      "email": "masdasdm@mail.com",
+      "email": "Marcos@mail.com",
       "id": "a354ef8c-4292-4d29-8eee-3a3358d36e62",
       "estado": true
     },
     {
       "apellido": "Fusaro",
-      "nombre": "Marcoss",
+      "nombre": "Naidin",
       "telefono": "12313",
-      "email": "msada1@",
+      "email": "naidin@mail.com",
       "id": "06b2ab15-7164-4e2c-b460-15e1743734d9",
       "estado": true
     },
     {
-      "apellido": "Capij",
+      "apellido": "Castro",
       "nombre": "Larry",
       "telefono": "12345678",
       "email": "larry@mail.com",
@@ -33,7 +33,7 @@
       "estado": true
     },
     {
-      "apellido": "Aldo",
+      "apellido": "Alvaréz",
       "nombre": "Aldo",
       "telefono": "123535235235",
       "email": "aldo@mail",
@@ -41,20 +41,13 @@
       "estado": true
     },
     {
-      "apellido": "Gandara",
-      "nombre": "Marcos",
+      "apellido": "Dieguez",
+      "nombre": "Marcela",
       "telefono": "12335235231",
-      "email": "marcos@mail.com",
+      "email": "marcela@mail.com",
       "id": "fc8baadc-cc4f-4ee5-9d7a-511656d75b78",
       "estado": true
-    },
-    {
-      "apellido": "gandara",
-      "nombre": "marcos",
-      "telefono": "123123123",
-      "email": "asdmasmd@mail",
-      "id": "84bc3382-1077-41a3-8f63-0863f018bcb4",
-      "estado": true
     }
+    
   ]
-}
+} 
